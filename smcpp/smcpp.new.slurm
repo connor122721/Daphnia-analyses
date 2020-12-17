@@ -10,8 +10,6 @@
 #SBATCH -p standard
 #SBATCH --account berglandlab
 
-SLURM_ARRAY_TASK_ID=1
-
 # Load SMC++ & Modules
 source /home/csm6hg/smcpp/bin/activate
 module load intel/18.0 intelmpi/18.0 R/3.6.3
