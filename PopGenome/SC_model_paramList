@@ -1,0 +1,13 @@
+id,upper.maf,lower.maf,out.name,SC,chrom
+1,0.5,0,MapJune2020.recode.finalsnpset.phasedBCF,BCF,1
+2,0.5,0,MapJune2020.recode.finalsnpset.phasedBCF,BCF,2
+3,0.5,0,MapJune2020.recode.finalsnpset.phasedBCF,BCF,3
+4,0.5,0,MapJune2020.recode.finalsnpset.phasedBCF,BCF,4
+5,0.5,0,MapJune2020.recode.finalsnpset.phasedBCF,BCF,5
+6,0.5,0,MapJune2020.recode.finalsnpset.phasedBCF,BCF,6
+7,0.5,0,MapJune2020.recode.finalsnpset.phasedBCF,BCF,7
+8,0.5,0,MapJune2020.recode.finalsnpset.phasedBCF,BCF,8
+9,0.5,0,MapJune2020.recode.finalsnpset.phasedBCF,BCF,9
+10,0.5,0,MapJune2020.recode.finalsnpset.phasedBCF,BCF,10
+11,0.5,0,MapJune2020.recode.finalsnpset.phasedBCF,BCF,11
+12,0.5,0,MapJune2020.recode.finalsnpset.phasedBCF,BCF,12
